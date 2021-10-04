@@ -1,4 +1,4 @@
-# Alwebiee.PostgreSQL.DBInteraction (Still in Preview)
+# Alwebiee.PostgreSQL.DBInteraction (Under Preview)
 ## PostgreSQL Database Access Library using ADO.NET
 
 ### Library version
@@ -19,7 +19,7 @@ https://www.nuget.org/packages/Alwebiee.PostgreSQL.DBInteraction
 Install-Package Alwebiee.PostgreSQL.DBInteraction -Version 1.0.3
 ```
 
-#### 1. Inherit abstract class 'PostgreSQLDBInteraction' from Alwebiee.PostgreSQL.DBInteraction package as shown below code.
+#### Inherit abstract class 'PostgreSQLDBInteraction' from Alwebiee.PostgreSQL.DBInteraction package as shown below code.
 ```
 using Alwebiee.PostgreSQL.DBInteraction;
 
